@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 hi bro yes you 
 i am good
 
+=======
+hi bro yes bro
+>>>>>>> parent of 96d1ddd (merge conflict)
